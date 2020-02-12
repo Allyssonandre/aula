@@ -4,3 +4,7 @@
 'git log'    // adiciona os pontos na linha do tempo 
 'git status'  // informa o estado das alterações do nosso projeto
 'git show'    // apresenta determinado ponto na história 
+'git branch'   // gerencia novas linhas do tempo
+'git checkout' // manipula as linhas do tempo
+'git merge' // unir linhas do tempo
+'git push'  // envia alterações locais para o repositório GITHUB
